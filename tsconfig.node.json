@@ -10,7 +10,11 @@
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
-    "noEmit": true,
+
+    /* TypeScript Project References */
+    "composite": true, // 
+    "declaration": true, // 
+    "emitDeclarationOnly": true, // 
 
     /* Linting */
     "strict": true,

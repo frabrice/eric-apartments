@@ -11,7 +11,8 @@
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": true,
+    "noEmit": false, // ✅ Allow TypeScript to generate .js files (important for Vercel)
+    "outDir": "./dist", // ✅ Specify where compiled files go
     "jsx": "react-jsx",
 
     /* Linting */
