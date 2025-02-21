@@ -26,7 +26,7 @@ const Contact = () => {
       icon: <MapPin className="w-8 h-8 text-[#B8860B]" />,
       title: 'Location',
       details: [
-        'KK 202 Street',
+        '10, KK 556 St',
         'Kicukiro District, Rwanda'
       ]
     },

@@ -18,8 +18,7 @@ const Contact = () => {
       icon: <Mail className="w-8 h-8 text-[#B8860B]" />,
       title: 'Email',
       details: [
-        'info@fairyscape.com',
-        'contact@fairyscape.com'
+        'fairyscape250@gmail.com'
       ]
     },
     {
